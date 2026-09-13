@@ -1,9 +1,4 @@
-
-> *I build functionally brilliant, elegantly simple tools—then iterate until they become useful in the real world.*
-
----
-
-## About Me
+##  🤖 🎨 Программист et artiste
 
 I'm a  **AI Full-Stack Developer** based in San Francisco and open to remote work. Self-taught for more than a decade, I have worked with SF Bay Area companies and startups across web, mobile, AI, product design, and research tooling.
 

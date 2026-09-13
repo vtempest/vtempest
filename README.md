@@ -1,7 +1,8 @@
 ##  🤖 🎨 Программист et artiste
 
 
-I'm a  **AI Full-Stack Developer** based in San Francisco and doing remote work. Self-taught for more than a decade, I have worked with SF Bay Area companies and startups across web, mobile, AI, product design, and research tooling. I do not just prototype interfaces or call an API. I build end-to-end systems: document ingestion, semantic search, RAG pipelines, agent tooling, APIs, interfaces, deployment infrastructure, and the feedback loops that make products better. This GitHub is an active record of that work—experiments, open-source tools, research applications, and projects built to solve real problems.
+I'm a  **AI Full-Stack Developer** based in San Francisco and doing remote work. Self-taught for more than a decade, I have worked with SF Bay Area companies and startups across web, mobile, AI, product design, and research tooling. I do not just prototype interfaces or call an API. I build end-to-end systems: document ingestion, semantic search, RAG pipelines, agent tooling, APIs, interfaces, deployment infrastructure, and the feedback loops that make products better. This GitHub is an active record of that work—experiments, open-source tools, research applications, and projects built to solve real problems. Developers who code on GitHub daily deserve to be seen. Great products are made by people who investigate the problem, build the system, learn from the breakage, and return with a cleaner design.
+
 
 **AI Agents & Research Systems**
 
@@ -38,7 +39,7 @@ I'm a  **AI Full-Stack Developer** based in San Francisco and doing remote work.
 
 ---
 
-## Current Focus
+## 🏗️**FBEST**: *Functionally Brilliant, Elegantly Simple Tools.*
 
 Right now, I am building practical AI products and the infrastructure around them:
 
@@ -53,18 +54,8 @@ Every project is an end-to-end build: research, design, implementation, deployme
 
 ---
 
-## 🏗️ Highlighted Projects
 
-### AutoInvestment.Broker — Agent Infrastructure & AI Development
-> Built an MCP client that integrates external MCP-compatible services, expanding the agent's available tool ecosystem.
->
-> Designed a runtime-aware abstraction layer for routing indexing and search across vector databases, making deployments more portable and easier to configure. Optimized indexing with worker-based parallelism and memory controls, then added file summarization so agent workflows could operate effectively within LLM context limits.
->
-> 👉 [Visit AutoInvestment.Broker](https://autoinvestment.broker)
-
----
-
-### QwkSearch — AI-Powered Research & Semantic Search
+### QwkSearch — AI-Powered Research & Open-Source Google Killer
 > Built scalable document-ingestion and semantic-search pipelines that use vector embeddings to support LLM-powered question answering across large document collections.
 >
 > Implemented RAG architecture, retrieval and caching optimizations, and research into embedding models, prompt engineering, and hallucination mitigation—because a useful answer needs more than fluent text.
@@ -73,6 +64,16 @@ Every project is an end-to-end build: research, design, implementation, deployme
 
 ---
 
+### AutoInvestment.Broker — Agent Infrastructure & AI Investing
+> Built an MCP client that integrates external MCP-compatible services, expanding the agent's available tool ecosystem.
+>
+> Designed a runtime-aware abstraction layer for routing indexing and search across vector databases, making deployments more portable and easier to configure. Optimized indexing with worker-based parallelism and memory controls, then added file summarization so agent workflows could operate effectively within LLM context limits.
+>
+> 👉 [Visit AutoInvestment.Broker](https://autoinvestment.broker)
+
+---
+
+
 - 🪄 **AI research tools:** [AIResearch.js.org](https://airesearch.js.org) · [QwkSearch](https://qwksearch.com)
 - 📈 **AI agent apps:** [AutoInvestment.Broker](https://autoinvestment.broker) · [InstaRank](https://instarank.app) · [Welcome Home Agency](https://welcomehome.agency)
 - 📚 **Startup and open-source resources:** [StarterDocs](https://starterdocs.js.org/docs) · [Rights Institute](https://rights.institute)
@@ -80,27 +81,15 @@ Every project is an end-to-end build: research, design, implementation, deployme
 
 ---
 
-## 📝 Build Philosophy
+## 🤝 Collaborating
 
-I believe talented developers who code on GitHub daily deserve to be seen. Great products are made by people who investigate the problem, build the system, learn from the breakage, and return with a cleaner design.
-
-My shorthand for that approach is **FBEST**: *Functionally Brilliant, Elegantly Simple Tools.*
-
-🪄 Mathemagician and Open Sourcerer · 🤖 AI builder · 🎨 Программист et artiste
-
----
-
-## 🤝 Let's Connect
-
-I'm open to collaborating with ambitious startup teams building useful AI products, research tools, developer platforms, and elegant software.
+I enjoy working with ambitious startup teams building useful AI products, research tools, developer platforms, and elegant software.
 
 [![Schedule a Call](https://img.shields.io/badge/Schedule_a_Call-22C55E?style=flat&logo=calendly&logoColor=white)](https://t.ly/VDA0U)
-[![Resume](https://img.shields.io/badge/Resume-DC2626?style=flat&logo=readthedocs&logoColor=white)](https://t.ly/_rnzU)
 [![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff)](https://www.linkedin.com/in/alex-js-dev)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/vtempest)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:alex91gul@gmail.com)
 [![Google Scholar](https://img.shields.io/badge/Google_Scholar-4285F4?style=flat&logo=googlescholar&logoColor=white)](https://scholar.google.com/citations?user=oErIXkoAAAAJ)
 
----
 
-*Building in public, learning continuously, and shipping tools that make difficult work simpler.*
+_🪄 Mathemagician and Open Sourcerer · 🎨 Программист et artiste_

@@ -1,14 +1,7 @@
 ##  🤖 🎨 Программист et artiste
 
-I'm a  **AI Full-Stack Developer** based in San Francisco and open to remote work. Self-taught for more than a decade, I have worked with SF Bay Area companies and startups across web, mobile, AI, product design, and research tooling.
-
-I do not just prototype interfaces or call an API. I build end-to-end systems: document ingestion, semantic search, RAG pipelines, agent tooling, APIs, interfaces, deployment infrastructure, and the feedback loops that make products better. This GitHub is an active record of that work—experiments, open-source tools, research applications, and projects built to solve real problems.
-
-I am looking to join a top startup team where I can contribute market research, product thinking, feature design, and full-stack engineering with a productive, creative group using the latest tools.
-
+I'm a  **AI Full-Stack Developer** based in San Francisco and doing remote work. Self-taught for more than a decade, I have worked with SF Bay Area companies and startups across web, mobile, AI, product design, and research tooling. I do not just prototype interfaces or call an API. I build end-to-end systems: document ingestion, semantic search, RAG pipelines, agent tooling, APIs, interfaces, deployment infrastructure, and the feedback loops that make products better. This GitHub is an active record of that work—experiments, open-source tools, research applications, and projects built to solve real problems.
 ---
-
-## What I'm Working With
 
 **AI Agents & Research Systems**
 

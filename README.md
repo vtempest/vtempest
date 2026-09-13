@@ -96,7 +96,7 @@ I'm open to collaborating with ambitious startup teams building useful AI produc
 
 [![Schedule a Call](https://img.shields.io/badge/Schedule_a_Call-22C55E?style=flat&logo=calendly&logoColor=white)](https://t.ly/VDA0U)
 [![Resume](https://img.shields.io/badge/Resume-DC2626?style=flat&logo=readthedocs&logoColor=white)](https://t.ly/_rnzU)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alex-js-dev)
+[![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff)](https://www.linkedin.com/in/alex-js-dev)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/vtempest)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:alex91gul@gmail.com)
 [![Google Scholar](https://img.shields.io/badge/Google_Scholar-4285F4?style=flat&logo=googlescholar&logoColor=white)](https://scholar.google.com/citations?user=oErIXkoAAAAJ)

@@ -42,6 +42,11 @@ I'm a  **AI Full-Stack Developer** based in San Francisco and doing remote work.
 ## 🏗️**FBEST**: *Functionally Brilliant, Elegantly Simple Tools.*
 
 Right now, I am building practical AI products and the infrastructure around them:
+- 🪄 **AI research tools:** [AIResearch.js.org](https://airesearch.js.org) · [QwkSearch](https://qwksearch.com)
+- 📈 **AI agent apps:** [AutoInvestment.Broker](https://autoinvestment.broker) · [InstaRank](https://instarank.app) · [Welcome Home Agency](https://welcomehome.agency)
+- 📚 **Startup and open-source resources:** [StarterDocs](https://starterdocs.js.org/docs) · [Rights Institute](https://rights.institute)
+- 💻 **Code, experiments, and open source:** [github.com/vtempest](https://github.com/vtempest)
+
 
 - 🤖 **Agentic applications** — Building AI agents that use tools, search, file context, and MCP-compatible services to perform useful work.
 - 🔎 **AI research & RAG** — Designing document ingestion, embedding, retrieval, caching, summarization, and answer-quality workflows for large knowledge bases.
@@ -49,35 +54,6 @@ Right now, I am building practical AI products and the infrastructure around the
 - ⚡ **Production performance** — Improving indexing throughput with worker parallelism, memory controls, and resilient data pipelines that avoid out-of-memory failures.
 - 🎨 **Product-minded full stack** — Turning research and technical capabilities into clear, useful interfaces with React, Next.js, SvelteKit, and mobile-friendly experiences.
 - 🛠️ **AI-assisted development** — Managing code agents and rapid product workflows with Claude, OpenAI, Perplexity, Cursor, Antigravity, and v0.
-
-Every project is an end-to-end build: research, design, implementation, deployment, debugging, and iteration—not just the happy path.
-
----
-
-
-### QwkSearch — AI-Powered Research & Open-Source Google Killer
-> Built scalable document-ingestion and semantic-search pipelines that use vector embeddings to support LLM-powered question answering across large document collections.
->
-> Implemented RAG architecture, retrieval and caching optimizations, and research into embedding models, prompt engineering, and hallucination mitigation—because a useful answer needs more than fluent text.
->
-> 👉 [Visit QwkSearch](https://qwksearch.com)
-
----
-
-### AutoInvestment.Broker — Agent Infrastructure & AI Investing
-> Built an MCP client that integrates external MCP-compatible services, expanding the agent's available tool ecosystem.
->
-> Designed a runtime-aware abstraction layer for routing indexing and search across vector databases, making deployments more portable and easier to configure. Optimized indexing with worker-based parallelism and memory controls, then added file summarization so agent workflows could operate effectively within LLM context limits.
->
-> 👉 [Visit AutoInvestment.Broker](https://autoinvestment.broker)
-
----
-
-
-- 🪄 **AI research tools:** [AIResearch.js.org](https://airesearch.js.org) · [QwkSearch](https://qwksearch.com)
-- 📈 **AI agent apps:** [AutoInvestment.Broker](https://autoinvestment.broker) · [InstaRank](https://instarank.app) · [Welcome Home Agency](https://welcomehome.agency)
-- 📚 **Startup and open-source resources:** [StarterDocs](https://starterdocs.js.org/docs) · [Rights Institute](https://rights.institute)
-- 💻 **Code, experiments, and open source:** [github.com/vtempest](https://github.com/vtempest)
 
 ---
 

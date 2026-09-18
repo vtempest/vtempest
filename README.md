@@ -8,13 +8,8 @@ Right now, I am building practical AI products and the infrastructure around the
 - 📈 **AI agent apps:** [AutoInvestment.Broker](https://autoinvestment.broker) · [InstaRank](https://instarank.app) · [Welcome Home Agency](https://welcomehome.agency)
 - 📚 **Startup and open-source resources:** [StarterDocs](https://starterdocs.js.org/docs) · [Rights Institute](https://rights.institute)
 - 💻 **Code, experiments, and open source:** [github.com/vtempest](https://github.com/vtempest)
-
-
 - 🤖 **Agentic applications** — Building AI agents that use tools, search, file context, and MCP-compatible services to perform useful work.
 - 🔎 **AI research & RAG** — Designing document ingestion, embedding, retrieval, caching, summarization, and answer-quality workflows for large knowledge bases.
-- 🧠 **Context engineering** — Keeping agents effective on large repositories through file summarization, memory-aware workflows, and environment-specific retrieval.
-- ⚡ **Production performance** — Improving indexing throughput with worker parallelism, memory controls, and resilient data pipelines that avoid out-of-memory failures.
-- 🎨 **Product-minded full stack** — Turning research and technical capabilities into clear, useful interfaces with React, Next.js, SvelteKit, and mobile-friendly experiences.
 - 🛠️ **AI-assisted development** — Managing code agents and rapid product workflows with Claude, OpenAI, Perplexity, Cursor, Antigravity, and v0.
 
 

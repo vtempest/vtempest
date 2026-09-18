@@ -1,5 +1,4 @@
-##  🤖 🎨 Программист et artiste
-
+##  🤖 🪄 Mathemagician and Open Sourcerer · 🎨 Программист et artist
 
 I'm a  **AI Full-Stack Developer** based in San Francisco and doing remote work. Self-taught for more than a decade, I have worked with SF Bay Area companies and startups across web, mobile, AI, product design, and research tooling. I do not just prototype interfaces or call an API. I build end-to-end systems: document ingestion, semantic search, RAG pipelines, agent tooling, APIs, interfaces, deployment infrastructure, and the feedback loops that make products better. This GitHub is an active record of that work—experiments, open-source tools, research applications, and projects built to solve real problems. Developers who code on GitHub daily deserve to be seen. Great products are made by people who investigate the problem, build the system, learn from the breakage, and return with a cleaner design.
 
@@ -60,11 +59,8 @@ Right now, I am building practical AI products and the infrastructure around the
 
 I enjoy working with ambitious startup teams building useful AI products, research tools, developer platforms, and elegant software.
 
-[![Schedule a Call](https://img.shields.io/badge/Schedule_a_Call-22C55E?style=flat&logo=calendly&logoColor=white)](https://t.ly/VDA0U)
 [![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff)](https://www.linkedin.com/in/alex-js-dev)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/vtempest)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:alex91gul@gmail.com)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:grokthiscontact@gmail.com)
 [![Google Scholar](https://img.shields.io/badge/Google_Scholar-4285F4?style=flat&logo=googlescholar&logoColor=white)](https://scholar.google.com/citations?user=oErIXkoAAAAJ)
 
-
-_🪄 Mathemagician and Open Sourcerer · 🎨 Программист et artiste_

@@ -53,7 +53,52 @@ Right now, I am building practical AI products and the infrastructure around the
 - 🎨 **Product-minded full stack** — Turning research and technical capabilities into clear, useful interfaces with React, Next.js, SvelteKit, and mobile-friendly experiences.
 - 🛠️ **AI-assisted development** — Managing code agents and rapid product workflows with Claude, OpenAI, Perplexity, Cursor, Antigravity, and v0.
 
----
+
+## 📦 Packages
+
+[![npm downloads](https://img.shields.io/npm/dm/chat-agent-toolkit.svg)](https://www.npmjs.com/package/chat-agent-toolkit) **chat-agent-toolkit**
+[![npm downloads](https://img.shields.io/npm/dm/domain-rank.svg)](https://www.npmjs.com/package/domain-rank) **domain-rank**
+[![npm downloads](https://img.shields.io/npm/dm/extract-pdf.svg)](https://www.npmjs.com/package/extract-pdf) **extract-pdf**
+[![npm downloads](https://img.shields.io/npm/dm/extract-webpage.svg)](https://www.npmjs.com/package/extract-webpage) **extract-webpage**
+[![npm downloads](https://img.shields.io/npm/dm/extract-youtube.svg)](https://www.npmjs.com/package/extract-youtube) **extract-youtube**
+[![npm downloads](https://img.shields.io/npm/dm/html-renderer-api.svg)](https://www.npmjs.com/package/html-renderer-api) **html-renderer-api**
+[![npm downloads](https://img.shields.io/npm/dm/investing.svg)](https://www.npmjs.com/package/investing) **investing**
+[![npm downloads](https://img.shields.io/npm/dm/notebooklm-api-client.svg)](https://www.npmjs.com/package/notebooklm-api-client) **notebooklm-api-client**
+[![npm downloads](https://img.shields.io/npm/dm/qwksearch-api-client.svg)](https://www.npmjs.com/package/qwksearch-api-client) **qwksearch-api-client**
+[![npm downloads](https://img.shields.io/npm/dm/qwksearch-mcp-server.svg)](https://www.npmjs.com/package/qwksearch-mcp-server) **qwksearch-mcp-server**
+[![npm downloads](https://img.shields.io/npm/dm/react-reason-editor.svg)](https://www.npmjs.com/package/react-reason-editor) **react-reason-editor**
+[![npm downloads](https://img.shields.io/npm/dm/react-reason-editor-sidebar.svg)](https://www.npmjs.com/package/react-reason-editor-sidebar) **react-reason-editor-sidebar**
+**render-url-to-html**
+[![npm downloads](https://img.shields.io/npm/dm/research-agent-ui.svg)](https://www.npmjs.com/package/research-agent-ui) **research-agent-ui**
+[![npm downloads](https://img.shields.io/npm/dm/search-web-api.svg)](https://www.npmjs.com/package/search-web-api) **search-web-api**
+**searxng-search-cloudflare**
+[![npm downloads](https://img.shields.io/npm/dm/shadcn-app-dock.svg)](https://www.npmjs.com/package/shadcn-app-dock) **shadcn-app-dock**
+[![npm downloads](https://img.shields.io/npm/dm/shadcn-settings.svg)](https://www.npmjs.com/package/shadcn-settings) **shadcn-settings**
+**language-model-training**
+[![npm downloads](https://img.shields.io/npm/dm/trending-news-api.svg)](https://www.npmjs.com/package/trending-news-api) **trending-news-api**
+[![npm downloads](https://img.shields.io/npm/dm/use-weather-forecast.svg)](https://www.npmjs.com/package/use-weather-forecast) **use-weather-forecast**
+[![npm downloads](https://img.shields.io/npm/dm/use-voice-control.svg)](https://www.npmjs.com/package/use-voice-control) **use-voice-control**
+**user-help-docs**
+[![npm downloads](https://img.shields.io/npm/dm/write-language.svg)](https://www.npmjs.com/package/write-language) **write-language**
+
+[![npm downloads](https://img.shields.io/npm/dm/about-system.svg)](https://www.npmjs.com/package/about-system) **about-system-info**
+[![npm downloads](https://img.shields.io/npm/dm/api2ai.svg)](https://www.npmjs.com/package/api2ai) **api2ai-mcp-generator**
+**cloudflare-to-claude-fix**
+[![npm downloads](https://img.shields.io/npm/dm/code-tree-graph.svg)](https://www.npmjs.com/package/code-tree-graph) **code-tree-graph**
+[![npm downloads](https://img.shields.io/npm/dm/create-cloud-db.svg)](https://www.npmjs.com/package/create-cloud-db) **create-cloud-db**
+[![npm downloads](https://img.shields.io/npm/dm/create-starter-app.svg)](https://www.npmjs.com/package/create-starter-app) **create-starter-app**
+[![npm downloads](https://img.shields.io/npm/dm/export-svg-typescript.svg)](https://www.npmjs.com/package/export-svg-typescript) **export-svg-icons-typescript**
+[![npm downloads](https://img.shields.io/npm/dm/git0.svg)](https://www.npmjs.com/package/git0) **git0-repo-downloader**
+[![npm downloads](https://img.shields.io/npm/dm/manage-storage.svg)](https://www.npmjs.com/package/manage-storage) **manage-storage**
+**native-app-wrapper**
+[![npm downloads](https://img.shields.io/npm/dm/open-ready.svg)](https://www.npmjs.com/package/open-ready) **open-when-ready**
+[![npm downloads](https://img.shields.io/npm/dm/react-app-store-buttons.svg)](https://www.npmjs.com/package/react-app-store-buttons) **react-app-store-buttons**
+**server-shell-setup**
+[![npm downloads](https://img.shields.io/npm/dm/template-git-repo.svg)](https://www.npmjs.com/package/template-git-repo) **template-git-repo**
+[![npm downloads](https://img.shields.io/npm/dm/test-google-login.svg)](https://www.npmjs.com/package/test-google-login) **test-google-login**
+[![npm downloads](https://img.shields.io/npm/dm/verify-phone-sms.svg)](https://www.npmjs.com/package/verify-phone-sms) **verify-phone-sms**
+[![npm downloads](https://img.shields.io/npm/dm/setup-git-repo.svg)](https://www.npmjs.com/package/setup-git-repo) **setup-git-repo**
+**web2mobile-wrapper**
 
 ## 🤝 Collaborating
 

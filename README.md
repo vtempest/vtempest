@@ -2,17 +2,6 @@
 
 I'm a  **AI Full-Stack Developer** based in San Francisco and doing remote work. Self-taught for more than a decade, I have worked with SF Bay Area companies and startups across web, mobile, AI, product design, and research tooling. I do not just prototype interfaces or call an API. I build end-to-end systems: document ingestion, semantic search, RAG pipelines, agent tooling, APIs, interfaces, deployment infrastructure, and the feedback loops that make products better. This GitHub is an active record of that work—experiments, open-source tools, research applications, and projects built to solve real problems. Developers who code on GitHub daily deserve to be seen. Great products are made by people who investigate the problem, build the system, learn from the breakage, and return with a cleaner design.
 
-
-Right now, I am building practical AI products and the infrastructure around them:
-- 🪄 **AI research tools:** [AIResearch.js.org](https://airesearch.js.org) · [QwkSearch](https://qwksearch.com)
-- 📈 **AI agent apps:** [AutoInvestment.Broker](https://autoinvestment.broker) · [InstaRank](https://instarank.app) · [Welcome Home Agency](https://welcomehome.agency)
-- 📚 **Startup and open-source resources:** [StarterDocs](https://starterdocs.js.org/docs) · [Rights Institute](https://rights.institute)
-- 💻 **Code, experiments, and open source:** [github.com/vtempest](https://github.com/vtempest)
-- 🤖 **Agentic applications** — Building AI agents that use tools, search, file context, and MCP-compatible services to perform useful work.
-- 🔎 **AI research & RAG** — Designing document ingestion, embedding, retrieval, caching, summarization, and answer-quality workflows for large knowledge bases.
-- 🛠️ **AI-assisted development** — Managing code agents and rapid product workflows with Claude, OpenAI, Perplexity, Cursor, Antigravity, and v0.
-
-
 **AI Agents & Research Systems**
 
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat&logo=openai&logoColor=white)
@@ -105,4 +94,5 @@ I enjoy working with ambitious startup teams building useful AI products, resear
 
 
 [![npm downloads](https://i.imgur.com/u7evK2a.png)](https://codercards.ai/highlights/vtempest) 
+[![npm downloads](https://raw.githubusercontent.com/BEPb/BEPb/output/github-contribution-grid-snake-dark.svg)](https://github.com/vtempest?tab=repositories)
 

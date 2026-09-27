@@ -7,8 +7,7 @@ I'm a  **AI Full-Stack Developer** based in San Francisco and doing remote work.
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat&logo=openai&logoColor=white)
 ![Claude](https://img.shields.io/badge/Claude-D97757?style=flat&logo=anthropic&logoColor=white)
 ![Perplexity](https://img.shields.io/badge/Perplexity-1FB8CD?style=flat&logo=perplexity&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat&logo=langchain&logoColor=white)=
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat&logo=langchain&logoColor=white)
 ![Transformers.js](https://img.shields.io/badge/Transformers.js-FFD21E?style=flat&logo=huggingface&logoColor=black)
 ![Vector Search](https://img.shields.io/badge/Vector_Search-6E56CF?style=flat&logo=databricks&logoColor=white)
 
@@ -19,6 +18,7 @@ I'm a  **AI Full-Stack Developer** based in San Francisco and doing remote work.
 ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white)
 ![Svelte](https://img.shields.io/badge/SvelteKit-FF3E00?style=flat&logo=svelte&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
 ![Bun](https://img.shields.io/badge/Bun-000000?style=flat&logo=bun&logoColor=white)
 ![React Native](https://img.shields.io/badge/React_Native-20232A?style=flat&logo=react&logoColor=61DAFB)

@@ -93,7 +93,5 @@ I enjoy working with ambitious startup teams building useful AI products, resear
 [![Google Scholar](https://img.shields.io/badge/Google_Scholar-4285F4?style=flat&logo=googlescholar&logoColor=white)](https://scholar.google.com/citations?user=oErIXkoAAAAJ)
 
 
-
-[![npm downloads](https://i.imgur.com/u7evK2a.png)](https://codercards.ai/highlights/vtempest) 
 [![npm downloads](https://raw.githubusercontent.com/BEPb/BEPb/output/github-contribution-grid-snake-dark.svg)](https://github.com/vtempest?tab=repositories)
 ![Pac-Man contribution graph](https://raw.githubusercontent.com/karnVen/karnVen/output/pacman-contribution-graph.svg)

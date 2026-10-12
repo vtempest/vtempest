@@ -34,8 +34,7 @@ I'm a  **AI Full-Stack Developer** based in San Francisco and doing remote work.
 ![Shopify](https://img.shields.io/badge/Shopify-7AB55C?style=flat&logo=shopify&logoColor=white)
 
 
-
-I enjoy working with ambitious startup teams building useful AI products, research tools, developer platforms, and elegant software.
+**Contact**
 
 [![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff)](https://www.linkedin.com/in/alex-js-dev)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/vtempest)

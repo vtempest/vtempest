@@ -47,6 +47,8 @@ I'm a  **AI Full-Stack Developer** based in San Francisco and doing remote work.
 
 ## 🏗️**FBEST**: *Functionally Brilliant, Elegantly Simple Tools.*
 
+## [Open Source AGI - Organization Apps](https://github.com/OpenSourceAGI) -- 1 Million Monthly Downloads
+
 [![npm downloads](https://img.shields.io/npm/dm/chat-agent-toolkit.svg)](https://www.npmjs.com/package/chat-agent-toolkit) **chat-agent-toolkit**
 [![npm downloads](https://img.shields.io/npm/dm/domain-rank.svg)](https://www.npmjs.com/package/domain-rank) **domain-rank**
 [![npm downloads](https://img.shields.io/npm/dm/extract-pdf.svg)](https://www.npmjs.com/package/extract-pdf) **extract-pdf**
@@ -91,7 +93,6 @@ I'm a  **AI Full-Stack Developer** based in San Francisco and doing remote work.
 [![npm downloads](https://img.shields.io/npm/dm/setup-git-repo.svg)](https://www.npmjs.com/package/setup-git-repo) **setup-git-repo**
 **web2mobile-wrapper**
 
-## [Open Source AGI - Organization Apps](https://github.com/OpenSourceAGI) 
 
 <p align="center">
     <a href="https://github.com/OpenSourceAGI/qwksearch-research-agent"><img  src="https://i.imgur.com/ZMY9Xy7.png" width="750px" /></a>

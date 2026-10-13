@@ -69,7 +69,7 @@ I'm a  **AI Full-Stack Developer** based in San Francisco and doing remote work.
     <a href="https://github.com/OpenSourceAGI/qwksearch-research-agent"><img  src="https://i.imgur.com/ZMY9Xy7.png" width="750px" /></a>
     <br />
    <a href="https://doi.org/10.5281/zenodo.20320687"><img src="https://zenodo.org/badge/DOI/10.5281/zenodo.20320687.svg" alt="DOI" /></a>
-    <a href="https://deepwiki.com/OpenSourceAGI/qwksearch-research-agent"><img src="https://deepwiki.com/badge.svg" alt="Ask DeepWiki" /></a>
+    <a href="https://deepwiki.com/OpenSourceAGI/qwksearch-research-agent"><img src="https://img.shields.io/badge/Ask_DeepWiki-000?logo=github" alt="Ask DeepWiki" /></a>
     <a href="https://qwksearch.com"><img height="20px" src="https://img.shields.io/badge/App-blueviolet?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website" /></a>
     <a href="https://qwksearch.com/docs"><img src="https://img.shields.io/badge/Docs-blue?logo=ReadTheDocs&logoColor=white" alt="Documentation" /></a>
     <a href="https://qwksearch.com/api"><img src="https://img.shields.io/badge/API-blue?logo=fastapi&logoColor=white" alt="API" /></a>
@@ -101,7 +101,7 @@ I'm a  **AI Full-Stack Developer** based in San Francisco and doing remote work.
     <a href="https://github.com/OpenSourceAGI/ai-broker-investing-agent">
     <img src="https://i.imgur.com/4UC1Ixq.png"  width="750px" /></a>
 <br />
-    <a href="https://deepwiki.com/OpenSourceAGI/ai-broker-investing-agent"><img src="https://deepwiki.com/badge.svg" alt="Ask DeepWiki"></a>
+    <a href="https://deepwiki.com/OpenSourceAGI/ai-broker-investing-agent"><img src="https://img.shields.io/badge/Ask_DeepWiki-000?logo=github" alt="Ask DeepWiki"></a>
     <a href="https://docs.autoinvestment.broker/"><img src="https://img.shields.io/badge/Docs-blue?logo=ReadTheDocs&logoColor=white" alt="Documentation" /></a>
     <a href="https://autoinvestment.broker/api/docs"><img src="https://img.shields.io/badge/API-blue?logo=fastapi&logoColor=white" alt="API badge"></a>
     <a href="https://autoinvestment.broker" target="_blank" rel="noopener noreferrer"><img height="20px" src="https://img.shields.io/badge/Website-blueviolet?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website" /></a>
@@ -130,7 +130,7 @@ I'm a  **AI Full-Stack Developer** based in San Francisco and doing remote work.
     <img  src="https://i.imgur.com/yULu4VG.png" /></a>
     <br />
   <a href="https://doi.org/10.5281/zenodo.20676952"><img src="https://zenodo.org/badge/DOI/10.5281/zenodo.20676952.svg" alt="DOI"></a>
- <a href="https://deepwiki.com/opensourceagi/rights-institute"><img src="https://deepwiki.com/badge.svg" alt="Ask DeepWiki"></a>
+ <a href="https://deepwiki.com/opensourceagi/rights-institute"><img src="https://img.shields.io/badge/Ask_DeepWiki-000?logo=github" alt="Ask DeepWiki"></a>
     <a href="https://rights.institute/docs"><img src="https://img.shields.io/badge/Docs-blue?logo=ReadTheDocs&logoColor=white" alt="Documentation" /></a>
     <a href="https://rights.institute/docs"><img src="https://img.shields.io/badge/API-blue?logo=fastapi&logoColor=white" alt="API badge"></a>
     <a href="https://youtu.be/YOUR_VIDEO_ID" target="_blank" rel="noopener noreferrer"><img height="20px" src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" /></a>
@@ -151,7 +151,7 @@ I'm a  **AI Full-Stack Developer** based in San Francisco and doing remote work.
     <br />
     <a href="https://github.com/OpenSourceAGI/GRAB-URL">
         <img width="750px" src="https://i.imgur.com/HVLYLqR.png" /></a>
-    <a href="https://deepwiki.com/OpenSourceAGI/GRAB-URL"><img src="https://deepwiki.com/badge.svg" alt="Ask DeepWiki" /></a>
+    <a href="https://deepwiki.com/OpenSourceAGI/GRAB-URL"><img src="https://img.shields.io/badge/Ask_DeepWiki-000?logo=github" alt="Ask DeepWiki" /></a>
     <a href="https://grab.js.org"><img src="https://img.shields.io/badge/Docs-blue?logo=ReadTheDocs&logoColor=white" alt="Documentation" /></a>
     <a href="https://stackblitz.com/github/OpenSourceAGI/GRAB-URL/tree/master/examples/basic-request"><img height="20px" src="https://developer.stackblitz.com/img/open_in_stackblitz.svg" alt="Open in StackBlitz" /></a>
     <a href="https://codespaces.new/OpenSourceAGI/GRAB-URL"><img height="20px" src="https://github.com/codespaces/badge.svg" alt="Open in GitHub Codespaces" /></a>
@@ -180,7 +180,7 @@ I'm a  **AI Full-Stack Developer** based in San Francisco and doing remote work.
     <a href="https://github.com/OpenSourceAGI/dev-tools-starter-agent">
     <img  src="https://i.imgur.com/QL2mfLO.png" /></a>
         <br />
-    <a href="https://deepwiki.com/OpenSourceAGI/dev-tools-starter-agent"><img src="https://deepwiki.com/badge.svg" alt="Ask DeepWiki" /></a>
+    <a href="https://deepwiki.com/OpenSourceAGI/dev-tools-starter-agent"><img src="https://img.shields.io/badge/Ask_DeepWiki-000?logo=github" alt="Ask DeepWiki" /></a>
     <a href="https://starterdocs.vtempest.workers.dev"><img height="20px" src="https://img.shields.io/badge/App-blueviolet?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website" /></a>
     <a href="https://1computer.online/docs"><img src="https://img.shields.io/badge/Docs-blue?logo=ReadTheDocs&logoColor=white" alt="Documentation" /></a>
     <a href="https://github.com/OpenSourceAGI/dev-tools-starter-agent/stargazers"><img src="https://img.shields.io/github/stars/OpenSourceAGI/dev-tools-starter-agent" alt="GitHub Stars" /></a>

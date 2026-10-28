@@ -47,7 +47,7 @@ I'm a  **AI Full-Stack Developer** based in San Francisco and doing remote work.
 
 ## 🏗️**FBEST**: *Functionally Brilliant, Elegantly Simple Tools.*
 
-## [Open Source AGI - Organization Apps](https://github.com/OpenSourceAGI) -- 1 Million Monthly Downloads
+## [Open Source AGI - Organization Apps](https://github.com/OpenSourceAGI) --  Millions Total Downloads
 |   |   |   |
 |---|---|---|
 | [![npm downloads](https://img.shields.io/npm/dt/chat-agent-toolkit.svg)](https://www.npmjs.com/package/chat-agent-toolkit) **chat-agent-toolkit** | [![npm downloads](https://img.shields.io/npm/dt/domain-rank.svg)](https://www.npmjs.com/package/domain-rank) **domain-rank** | [![npm downloads](https://img.shields.io/npm/dt/extract-pdf.svg)](https://www.npmjs.com/package/extract-pdf) **extract-pdf** |

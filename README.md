@@ -1,3 +1,5 @@
+![Pac-Man contribution graph](https://raw.githubusercontent.com/karnVen/karnVen/output/pacman-contribution-graph.svg)
+
 ##  🤖 🪄 Mathemagician and Open Sourcerer · 🎨 Программист et artiste
 
 I'm a  **AI Full-Stack Developer** based in San Francisco and doing remote work. Self-taught for more than a decade, I have worked with SF Bay Area companies and startups across web, mobile, AI, product design, and research tooling. I do not just prototype interfaces or call an API. I build end-to-end systems: document ingestion, semantic search, RAG pipelines, agent tooling, APIs, interfaces, deployment infrastructure, and the feedback loops that make products better. This GitHub is an active record of that work—experiments, open-source tools, research applications, and projects built to solve real problems. Developers who code on GitHub daily deserve to be seen. Great products are made by people who investigate the problem, build the system, learn from the breakage, and return with a cleaner design.
@@ -209,4 +211,3 @@ I'm a  **AI Full-Stack Developer** based in San Francisco and doing remote work.
  
 
 [![npm downloads](https://raw.githubusercontent.com/BEPb/BEPb/output/github-contribution-grid-snake-dark.svg)](https://github.com/vtempest?tab=repositories)
-![Pac-Man contribution graph](https://raw.githubusercontent.com/karnVen/karnVen/output/pacman-contribution-graph.svg)
